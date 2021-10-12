@@ -61,7 +61,7 @@ module.exports = (() => {
             return class NitroPerksReBoot extends Plugin {
                 defaultSettings = {
                     "emojiSize": "40",
-                    "screenSharing": false,
+                    "screenSharing": true,
                     "emojiBypass": true,
                 };
                 settings = PluginUtilities.loadSettings(this.getName(), this.defaultSettings);
