@@ -13,8 +13,8 @@ module.exports = (() => {
             }],
             "version": "2.0.0",
             "description": "Unlock all screensharing modes, use cross-server emotes and gif emojis.",
-            //"github": "https://github.com/respecting/NitroPerksReBoot",
-            //"github_raw": "https://raw.githubusercontent.com/respecting/NitroPerksReBoot/main/NitroPerksReBoot.plugin.js"
+            "github": "https://github.com/ArgyleFelix/NitroPerksReBoot",
+            "github_raw": "https://raw.githubusercontent.com/ArgyleFelix/NitroPerksReBoot/main/NitroPerksReBoost.plugin.js"
         },
         "main": "NitroPerksReBoot.plugin.js"
     };
